@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Roman
 
-I'm a FrontEnd Developer from Argentina 🇦🇷, currently living in New Zealand.
+I'm a FrontEnd Developer born in Argentina, currently living in New Zealand.
 
 🔭 I'm currently working as a freelance dev for UNICEF, among others.
 
