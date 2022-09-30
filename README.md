@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Roman
+## Hi there 👋, I'm Roman
+
+<br>
 
 I'm a FrontEnd Developer born in Argentina, currently living in New Zealand.
 
@@ -6,13 +8,24 @@ I'm a FrontEnd Developer born in Argentina, currently living in New Zealand.
 
 🌱 I'm currently learning ReactJS
 
-Check some of my projects:
+<br>
 
-[Artist Martin Lago Website](https://martinlago.netlify.app/ "martinlago.netlify.app")
+### Check some of my projects:
 
-[Sailing Quiz](https://romandescotte.github.io/sailing-quiz/ "romandescotte.github.io/sailing-quiz")
+- [Artist Martin Lago Website](https://martinlago.netlify.app/ "martinlago.netlify.app")
 
-📫 How to reach me: you can send me a message at my [Linkedin](https://www.linkedin.com/in/roman-descotte/ "www.linkedin.com/in/roman-descotte")
+- [Sailing Quiz](https://romandescotte.github.io/sailing-quiz/ "romandescotte.github.io/sailing-quiz")
+
+<br>
+
+### 📫 How to reach me: 
+
+- [Linkedin](https://www.linkedin.com/in/roman-descotte/ "www.linkedin.com/in/roman-descotte")
+
+- [Facebook](https://www.facebook.com/roman.descotte/)
+
+<br>
+
 
 <!--
 **romandescotte/romandescotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
