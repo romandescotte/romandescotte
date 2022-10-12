@@ -6,7 +6,7 @@ I'm a FrontEnd Developer born in Argentina, currently living in New Zealand.
 
 🔭 I'm currently working as a freelance dev for UNICEF, among others.
 
-🌱 I'm currently learning ReactJS
+🌱 I'm currently following the FullStack path [here](https://github.com/romandescotte/fullstack-open-course-2022) (ReactJS/Node.js/MongoDB) 
 
 <br>
 
